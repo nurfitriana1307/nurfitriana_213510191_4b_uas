@@ -1,3 +1,7 @@
+# UAS LAB PBK
+NAMA   : NUR FITRIANA
+NPM    : 213510191
+
 # nurfitriana_213510191_4b
 
 ## Project setup
