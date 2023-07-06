@@ -1,0 +1,19 @@
+{
+  "name": "nurfitriana_213510191_4b",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "router": "^1.3.8",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
